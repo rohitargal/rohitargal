@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning MongoDB, Mongoose & another stuff
 - 💞️ I’m looking to collaborate on Backend Projects
 - 📫 How to reach me rohit.argal.01@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I love backend development and crafting powerful server-side solutions!
 
 <!---
 rohitargal/rohitargal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
